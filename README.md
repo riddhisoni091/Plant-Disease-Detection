@@ -1,5 +1,5 @@
 # Plant Disease Classification using ResNet-9
->**This project enables real-time plant leaf disease classification in 10–20 seconds per image using a lightweight ResNet-9 deep learning model. The app and backend are fully integrated with [Hugging Face]([https://huggingface.co](https://huggingface.co/teamtezstory))—making rapid, reliable predictions possible from both mobile devices and web interfaces.**
+>**This project enables real-time plant leaf disease classification in 10–20 seconds per image using a lightweight ResNet-9 deep learning model. The app and backend are fully integrated with [Hugging Face]([https://huggingface.co](https://huggingface.co/riddhisoni091))—making rapid, reliable predictions possible from both mobile devices and web interfaces.**
 
 ![Summer Plant Care Tips](https://yummycake.in/wp-content/uploads/2025/06/summer-plant-care-tips.jpg)
 
@@ -19,12 +19,12 @@
 **Try the live demos now:**
 
 ### 1. Start `Plantcare` Space
-- [Plantcare Space](https://huggingface.co/spaces/teamtezstory/plantcare)
+- [Plantcare Space](https://huggingface.co/spaces/riddhisoni091/plantcare)
 - Identify plant diseases directly from browser via image upload.
 - Powered by FastAPI and PyTorch backend deployed on Hugging Face.
 
 ### 2. Start `Plantcareapp` Space
-- [Plantcareapp Space](https://huggingface.co/spaces/teamtezstory/plantcareapp)
+- [Plantcareapp Space](https://huggingface.co/spaces/riddhisoni091/plantcareapp)
 - Mobile-friendly interface for quick leaf disease prediction.
 - The Android app can connect to this space for instant results.
 
@@ -71,7 +71,7 @@ data/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/cloud073/Plant-Disease-Classification
+git clone https://github.com/riddhisoni091/Plant-Disease-Classification
 cd plant-disease-classification
 ```
 
